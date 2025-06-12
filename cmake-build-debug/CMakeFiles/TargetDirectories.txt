@@ -1,0 +1,3 @@
+/Users/kama/Documents/GitHub/stock-exchange/cmake-build-debug/CMakeFiles/stock_exchange.dir
+/Users/kama/Documents/GitHub/stock-exchange/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kama/Documents/GitHub/stock-exchange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
